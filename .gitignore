@@ -9,7 +9,7 @@ media
 # Backup files #
 *.bak
 
-./reader/migrations/
+
 
 # If you are using PyCharm #
 # User-specific stuff
